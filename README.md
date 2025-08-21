@@ -12,6 +12,7 @@ AI system that analyzes student responses, evaluates answer quality, and provide
 - **[Fatemah Abdelwahed]** - [@F2mxvi](https://github.com/f2mxvi)
 - **[Nuzhat Tabassum]** - [@Nuzhat-lanika](https://github.com/nuzhat-lanika)
 - **[Emmanuel Madera]** - [@emadera2](https://github.com/emadera2)
+- **[Victorya Devero]** - [@Vi-deve31](https://github.com/Vi-deve31)
 
 ## Tech Stack
 - Python, LangChain, OpenAI API
