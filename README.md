@@ -1,22 +1,42 @@
-# EduQuery: LLM-Powered Educational AI
+# Grant Buddy: AI-Powered Grant Application Assistant
 
 Break Through Tech AI Studio project with Cambio Labs
 
 ## Overview
-AI system that analyzes student responses, evaluates answer quality, and provides personalized feedback using LLMs.
+AI agent that discovers relevant grants, analyzes organizational context, and generates draft grant applications for nonprofit organizations.
+
+## Project Components
+1. **Grant Discovery** - Web scraping & research to identify relevant funding opportunities
+2. **Context Analysis** - Process Cambio Labs' past applications and organizational documents  
+3. **Application Generation** - LLM-powered draft writing using organizational context
+4. **Output Delivery** - Streamlined format for review and submission
 
 ## Team
-- **[Basir Abdul Samad]** - [@BasirS](https://github.com/BasirS)
-- **[Given Brown]** - [@GivenBrown](https://github.com/givenbrown)
-- **[Gunn Madan]** - [@GunnMadan](https://github.com/gunnmadan)
-- **[Fatemah Abdelwahed]** - [@F2mxvi](https://github.com/f2mxvi)
-- **[Nuzhat Tabassum]** - [@Nuzhat-lanika](https://github.com/nuzhat-lanika)
-- **[Emmanuel Madera]** - [@emadera2](https://github.com/emadera2)
-- **[Victorya Devero]** - [@Vi-deve31](https://github.com/Vi-deve31)
+**Challenge Advisor:** Angelo Orciuoli - @angelo-orciuoli
+* **Basir Abdul Samad** - @BasirS
+* **Given Brown** - @GivenBrown  
+* **Gunn Madan** - @GunnMadan
+* **Fatemah Abdelwahed** - @F2mxvi
+* **Nuzhat Tabassum** - @Nuzhat-lanika
+* **Emmanuel Madera** - @emadera2
+* **Victorya Devero** - @Vi-deve31
 
 ## Tech Stack
-- Python, LangChain, OpenAI API
-- [Will be added as we determine architecture]
+* Python, OpenAI API, LangChain
+* Web scraping tools (BeautifulSoup/Scrapy)
+* Document processing (RAG implementation)
+* [Architecture TBD during research phase]
+
+## Current Phase
+**Research & Planning** (Due: Early September)
+- Technical architecture research
+- Tool/framework evaluation  
+- Implementation strategy development
+
+## Timeline
+- **September**: Grant discovery agent MVP
+- **October-November**: Context analysis & application generation
+- **December**: Final presentation
 
 ## Setup
-[Installation/setup instructions] - in-progress
+[Installation instructions - TBD]
